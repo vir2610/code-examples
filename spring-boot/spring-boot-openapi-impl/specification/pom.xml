@@ -24,7 +24,7 @@
         <spring-boot-starter-web-version>2.1.0.RELEASE</spring-boot-starter-web-version>
         <junit-version>4.12</junit-version>
         <migbase64-version>2.2</migbase64-version>
-        <jackson-databind-nullable>0.2.1</jackson-databind-nullable>
+        <jackson-databind-nullable>0.2.5</jackson-databind-nullable>
     </properties>
 
     <dependencies>
