@@ -10,9 +10,9 @@
     "test:pact:graphql": "start-server-and-test start http://localhost:3000 pact:providerTests:graphql"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "~4.21.1",
     "express-graphql": "^0.7.1",
     "morgan": "~1.9.0"
   },
