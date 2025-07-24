@@ -14,7 +14,7 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "express-graphql": "^0.7.1",
-    "morgan": "~1.9.0"
+    "morgan": "~1.10.1"
   },
   "devDependencies": {
     "@pact-foundation/pact": "7.0.3",
